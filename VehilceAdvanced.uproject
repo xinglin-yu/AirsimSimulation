@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "Samples",
+	"Description": "",
+	"Modules": [
+			{
+					 "Name": "VehilceAdvanced",
+					 "Type": "Runtime",
+					 "LoadingPhase": "Default",
+					 "AdditionalDependencies": [
+							  "AirSim"
+					 ]
+			}
+	],
+	"TargetPlatforms": [
+			"MacNoEditor",
+			"WindowsNoEditor"
+	],
+	"EpicSampleNameHash": "1226740271",
+	"Plugins": [
+			{
+				 "Name": "AirSim",
+				 "Enabled": true
+			},
+			{
+				"Name": "RawInput",
+				"Enabled": true
+			}
+	]
+}
