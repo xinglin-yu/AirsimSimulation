@@ -1,8 +1,9 @@
 # AirsimSimulation
 
 
-<img src="./Plugins/UdpMatlabClient/Result/MazeMap.bmp" width = "300" height = "200" alt="图片名称" align=center />
-![](img)
+<img src="./Plugins/UdpMatlabClient/Result/MazeMap.bmp" width = "340" height = "340" alt="MazeMap" align=center />
+
+
 ![](./Plugins/UdpMatlabClient/Result/MazeMap.bmp)
 
 
