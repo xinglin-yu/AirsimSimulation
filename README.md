@@ -11,21 +11,17 @@ The successive desired waypoints are specified on the critical corners of the ma
 <figure class="third">
     <img src="./Plugins/UdpMatlabClient/Result/MazeMap.bmp" width = "170" height = "170">
     <img src="./Plugins/UdpMatlabClient/Result/PathMaze.bmp" width = "192" height = "170">
-    <img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp" width = "171" height = "151">
+    <img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp" width = "171" height = "151" alt="MazeMapQuadrotor" align=center />  
 </figure>
 
 
+[![Watch the video](./Plugins/UdpMatlabClient/Result/MazeMap.bmp)](https://www.youtube.com/embed/9PYSBlhq-9o)
 
 
-
-
-<img src="./Plugins/UdpMatlabClient/Result/MazeMap.bmp" width = "170" height = "170" alt="MazeMap" align=center> 
-<src="./Plugins/UdpMatlabClient/Result/PathMaze.bmp" width = "192" height = "170" alt="PathMaze" align=center> 
-</img>
-
-<img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp" width = "171" height = "151" alt="MazeMapQuadrotor" align=center />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9PYSBlhq-9o?start=1.2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 ## Environment
 
