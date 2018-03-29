@@ -14,7 +14,7 @@ The successive desired waypoints are specified on the critical corners of the ma
 
 ## Video
 [![Watch the video](./Plugins/UdpMatlabClient/Result/MazeMap.bmp)](https://www.youtube.com/embed/9PYSBlhq-9o)
-
+* Youtube site: https://youtu.be/9PYSBlhq-9o
 
 
 ## Environment
