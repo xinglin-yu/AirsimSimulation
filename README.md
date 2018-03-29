@@ -22,4 +22,3 @@ The successive desired waypoints are specified on the critical corners of the ma
 * MATLAB 2016
 * [Airsim V1.1.8](https://github.com/Microsoft/AirSim) 
 * Unreal Engine 4.16
-
