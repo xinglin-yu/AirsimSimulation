@@ -6,10 +6,8 @@ is developed to verify the dynamic model and the designed control algorithm for 
 The quadrotor' motion is restrained in a narrow corridor, which represents a much more challenging workspace because any oscillation with the walls may cause the crash of the quadrotor vehicle.
 The successive desired waypoints are specified on the critical corners of the maze map.
 
-<figure class="third">
-    <img src="./Plugins/UdpMatlabClient/Result/PathMaze.bmp" width = "192" height = "170">
-    <img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp" width = "171" height = "151" alt="MazeMapQuadrotor" align=center />  
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp"  width = "171" height = "151"></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./Plugins/UdpMatlabClient/Result/PathMaze.bmp" width = "202" height = "160" ></div>
 
 
 ## Video
