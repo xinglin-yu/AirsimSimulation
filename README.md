@@ -13,7 +13,6 @@ The successive desired waypoints are specified on the critical corners of the ma
 </div>
 
 
-
 ## Video
 [![Watch the video](./Plugins/UdpMatlabClient/Result/Video.bmp)](https://www.youtube.com/embed/9PYSBlhq-9o "Play")
 * Youtube site: https://youtu.be/9PYSBlhq-9o
