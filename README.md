@@ -8,18 +8,15 @@ The successive desired waypoints are specified on the critical corners of the ma
 
 <div style="float:center;border:solid 1px 000;margin:2px;">
 <img src="./Plugins/UdpMatlabClient/Result/MazeMap.bmp"  width = "171" height = "151" />
-<img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp"  width = "171" height = "151" />
 <img src="./Plugins/UdpMatlabClient/Result/PathMaze.bmp" width = "202" height = "160" />
+<img src="./Plugins/UdpMatlabClient/Result/MazeMapQuadrotor.bmp"  width = "171" height = "151" />
 </div>
 
 
 
 ## Video
 [![Watch the video](./Plugins/UdpMatlabClient/Result/Video.bmp)](https://www.youtube.com/embed/9PYSBlhq-9o "Play")
-
-
 * Youtube site: https://youtu.be/9PYSBlhq-9o
-
 
 
 ## Environment
